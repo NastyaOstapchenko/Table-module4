@@ -7,7 +7,3 @@ table {
 td {
   height: 20px;
   }
-
-tr, th, td {
-  border: 10px solid black;
-}
