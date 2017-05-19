@@ -1,14 +1,13 @@
 
 table {
   width: 75%;
-  border-collapse: collapse;
-  /*border: 5px solid black;*/
+  /*border-collapse: collapse;*/
 }
 
-/*td {
+td {
   height: 20px;
-  }*/
+  }
 
-tr {
+tr, th, td {
   border: 10px solid black;
 }
